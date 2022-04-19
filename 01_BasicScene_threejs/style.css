@@ -1,0 +1,9 @@
+/* css file - styling of the website */
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 10px;
+    text-shadow: 3px 3px 3px #ababab;
+}
